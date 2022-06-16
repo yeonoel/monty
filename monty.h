@@ -12,9 +12,6 @@ extern char *push_data;
 
 char *push_data;
 
-
-void push()
-
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
  * @n: integer
